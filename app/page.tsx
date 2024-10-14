@@ -27,7 +27,7 @@ export default function Home() {
             <div className="text-sm">
               <p>
                 The 3M Car Care Store is a place where technology, people and
-                "car care" converge. This is where you, a car owner will
+                &#34;car care&#34; converge. This is where you, a car owner will
                 appreciate the tremendous power of technology and 3M`s great
                 beliefs in human connect.
               </p>
